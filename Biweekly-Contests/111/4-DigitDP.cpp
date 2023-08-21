@@ -1,7 +1,7 @@
 // #include <ext/pb_ds/assoc_container.hpp>
 // #include <ext/pb_ds/tree_policy.hpp>
 // using namespace __gnu_pbds;
-
+//link:https://leetcode.com/contest/biweekly-contest-111/problems/number-of-beautiful-integers-in-the-range/
 //Aliases
 using ll= long long;
 using lld= long double;
