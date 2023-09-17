@@ -4,7 +4,7 @@
 
 
 //link:https://leetcode.com/contest/weekly-contest-363/problems/maximum-number-of-alloys/
-//video:
+//video: https://www.youtube.com/watch?v=yOqX3DmEXMQ
 
 //Aliases
 using ll= long long;
